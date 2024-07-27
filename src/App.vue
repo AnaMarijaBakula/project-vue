@@ -5,17 +5,11 @@
 </script>
 
 <template>
-    <h1>Header</h1>
-  <RouterView />
-  <header>
-
-
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <h1>Ovo je app.vue</h1>
+  <RouterView/>
 </template>
+
+
 
 <style scoped>
 header {
