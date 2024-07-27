@@ -3,8 +3,8 @@
 </script>
 
 <template>
-<h1>Products</h1>
-  <h3>Ovo je product componenta</h3>
+  <h1>Product detail</h1>
+  <h3>Ovo je product detail componenta</h3>
 </template>
 
 <style scoped>
